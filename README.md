@@ -80,7 +80,7 @@ Example: <a href='https://fiyin-max-ng.herokuapp.com/movies'>https://fiyin-max-n
 ### 2. Add Anonymous Comment to movie-> GET
 > /comment?id=4&comment=Nice Movie
 
-Example: <a href='https://fiyin-max-ng.herokuapp.com/movies/comment?id=4&comment=Nice%20Movie'>https://fiyin-max-ng.herokuapp.com/movies/comment?id=4&comment=Nice Movie</a> 
+Example: <a href='https://fiyin-max-ng.herokuapp.com/movies/comment?id=4&comment=Nice%20Movie'>https://fiyin-max-ng.herokuapp.com/movies/comment?id=4&comment=Nice%20Movie</a> 
 
 Params
 <ul>
