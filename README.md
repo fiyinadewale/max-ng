@@ -79,6 +79,7 @@ Example: <a href='https://fiyin-max-ng.herokuapp.com/movies'>https://fiyin-max-n
 
 ### 2. Add Anonymous Comment to movie-> GET
 > /comment?id=4&comment=Nice Movie
+
 Example: <a href='https://fiyin-max-ng.herokuapp.com/movies/comment?id=4&comment=Nice Movie'>https://fiyin-max-ng.herokuapp.com/movies/comment?id=4&comment=Nice Movie</a> 
 
 Params
@@ -90,6 +91,7 @@ Params
 ### 3. List All Comment associated to a Particular Movie in Reverse Chronological Order
 
 > /comments/:id
+
 Example: <a href="https://fiyin-max-ng.herokuapp.com/movies/comments/4">https://fiyin-max-ng.herokuapp.com/movies/comments/4</a>
 Params
 <ul>
@@ -106,6 +108,7 @@ Response
 
 ### 4. List All Comments in Reverse Chronological Order -> GET
 > /comments
+
 Example: <a href="https://fiyin-max-ng.herokuapp.com/movies/comments">https://fiyin-max-ng.herokuapp.com/movies/comments</a>
 <ul>
   <li><b>id</b>: This displays the id of the comment</li> 
@@ -119,6 +122,7 @@ Example: <a href="https://fiyin-max-ng.herokuapp.com/movies/comments">https://fi
 ### 5. Filter and Sort for Character Lists per Movie
 
 > /character?id=1&gender=male&sort=name&order=asc
+
 Example: <a href="https://fiyin-max-ng.herokuapp.com/movies/character?id=1&gender=male&sort=name&order=asc">https://fiyin-max-ng.herokuapp.com/movies/character?id=1&gender=male&sort=name&order=asc</a>
 
 Params
@@ -137,6 +141,7 @@ Response
     <ul>
     <li><b>ft_in</b>: The value of the total height in feet and inches</li>
     </ul>
+
 data
 <li><b>name</b>: This is the name of the character<li>
 <li><b>gender</b>: This is the gender of the character<li>
