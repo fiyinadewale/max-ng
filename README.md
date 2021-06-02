@@ -138,8 +138,8 @@ Response
 <ul>
 <li><b>num_of_characters"</b>: This displays the number of characters that matched input criteria</li>
 <li><b>total_height(ft and in)</b>:The value of the total height in feet and inches</li>
-<li><b>name</b>: This is the name of the character<li>
-<li><b>gender</b>: This is the gender of the character<li>
-<li><b>height</b>: This is the height of the character<li>
+<li><b>name</b>: This is the name of the character</li>
+<li><b>gender</b>: This is the gender of the character</li>
+<li><b>height</b>: This is the height of the character</li>
 </ul>
     
