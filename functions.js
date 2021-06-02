@@ -14,7 +14,7 @@ async function get_character_info(url){
     var rawfeet = ((x * 0.393700) / 12);
     var feet = Math.floor(rawfeet);
     var inches = Math.round((rawfeet - feet) * 12);
-    return feet + " ft and " + inches + ' inches';
+    return feet + " ft and " + inches + ' in';
  }
  function filterByGender(array, value){
     var filtered = [];
