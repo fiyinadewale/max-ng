@@ -68,6 +68,7 @@ BASE URL
 
 ### 1.List All Movies -> GET
 > /movies
+
 Example: <a href='https://fiyin-max-ng.herokuapp.com/movies'>https://fiyin-max-ng.herokuapp.com/movies</a>
 <ul>
   <li><b>id</b>: This displays the id of the movie</li> 
